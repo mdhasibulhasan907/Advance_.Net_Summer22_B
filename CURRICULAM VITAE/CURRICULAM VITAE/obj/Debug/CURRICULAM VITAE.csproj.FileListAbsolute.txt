@@ -1,0 +1,56 @@
+G:\CURRICULAM VITAE\CURRICULAM VITAE\bin\CURRICULAM VITAE.dll.config
+G:\CURRICULAM VITAE\CURRICULAM VITAE\bin\CURRICULAM VITAE.dll
+G:\CURRICULAM VITAE\CURRICULAM VITAE\bin\CURRICULAM VITAE.pdb
+G:\CURRICULAM VITAE\CURRICULAM VITAE\bin\roslyn\csc.exe
+G:\CURRICULAM VITAE\CURRICULAM VITAE\bin\roslyn\csc.exe.config
+G:\CURRICULAM VITAE\CURRICULAM VITAE\bin\roslyn\csc.rsp
+G:\CURRICULAM VITAE\CURRICULAM VITAE\bin\roslyn\csi.exe
+G:\CURRICULAM VITAE\CURRICULAM VITAE\bin\roslyn\csi.rsp
+G:\CURRICULAM VITAE\CURRICULAM VITAE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\CURRICULAM VITAE\CURRICULAM VITAE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\CURRICULAM VITAE\CURRICULAM VITAE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\CURRICULAM VITAE\CURRICULAM VITAE\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\CURRICULAM VITAE\CURRICULAM VITAE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\CURRICULAM VITAE\CURRICULAM VITAE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\CURRICULAM VITAE\CURRICULAM VITAE\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\CURRICULAM VITAE\CURRICULAM VITAE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\CURRICULAM VITAE\CURRICULAM VITAE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\CURRICULAM VITAE\CURRICULAM VITAE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\CURRICULAM VITAE\CURRICULAM VITAE\bin\roslyn\System.AppContext.dll
+G:\CURRICULAM VITAE\CURRICULAM VITAE\bin\roslyn\System.Collections.Immutable.dll
+G:\CURRICULAM VITAE\CURRICULAM VITAE\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\CURRICULAM VITAE\CURRICULAM VITAE\bin\roslyn\System.IO.FileSystem.dll
+G:\CURRICULAM VITAE\CURRICULAM VITAE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\CURRICULAM VITAE\CURRICULAM VITAE\bin\roslyn\System.Reflection.Metadata.dll
+G:\CURRICULAM VITAE\CURRICULAM VITAE\bin\roslyn\vbc.exe
+G:\CURRICULAM VITAE\CURRICULAM VITAE\bin\roslyn\vbc.exe.config
+G:\CURRICULAM VITAE\CURRICULAM VITAE\bin\roslyn\vbc.rsp
+G:\CURRICULAM VITAE\CURRICULAM VITAE\bin\roslyn\VBCSCompiler.exe
+G:\CURRICULAM VITAE\CURRICULAM VITAE\bin\roslyn\VBCSCompiler.exe.config
+G:\CURRICULAM VITAE\CURRICULAM VITAE\bin\Antlr3.Runtime.dll
+G:\CURRICULAM VITAE\CURRICULAM VITAE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\CURRICULAM VITAE\CURRICULAM VITAE\bin\Microsoft.Web.Infrastructure.dll
+G:\CURRICULAM VITAE\CURRICULAM VITAE\bin\Newtonsoft.Json.dll
+G:\CURRICULAM VITAE\CURRICULAM VITAE\bin\System.Web.Helpers.dll
+G:\CURRICULAM VITAE\CURRICULAM VITAE\bin\System.Web.Mvc.dll
+G:\CURRICULAM VITAE\CURRICULAM VITAE\bin\System.Web.Optimization.dll
+G:\CURRICULAM VITAE\CURRICULAM VITAE\bin\System.Web.Razor.dll
+G:\CURRICULAM VITAE\CURRICULAM VITAE\bin\System.Web.WebPages.Deployment.dll
+G:\CURRICULAM VITAE\CURRICULAM VITAE\bin\System.Web.WebPages.dll
+G:\CURRICULAM VITAE\CURRICULAM VITAE\bin\System.Web.WebPages.Razor.dll
+G:\CURRICULAM VITAE\CURRICULAM VITAE\bin\WebGrease.dll
+G:\CURRICULAM VITAE\CURRICULAM VITAE\bin\System.Web.Helpers.xml
+G:\CURRICULAM VITAE\CURRICULAM VITAE\bin\System.Web.Mvc.xml
+G:\CURRICULAM VITAE\CURRICULAM VITAE\bin\System.Web.Optimization.xml
+G:\CURRICULAM VITAE\CURRICULAM VITAE\bin\System.Web.Razor.xml
+G:\CURRICULAM VITAE\CURRICULAM VITAE\bin\System.Web.WebPages.xml
+G:\CURRICULAM VITAE\CURRICULAM VITAE\bin\System.Web.WebPages.Deployment.xml
+G:\CURRICULAM VITAE\CURRICULAM VITAE\bin\System.Web.WebPages.Razor.xml
+G:\CURRICULAM VITAE\CURRICULAM VITAE\bin\Newtonsoft.Json.xml
+G:\CURRICULAM VITAE\CURRICULAM VITAE\bin\Antlr3.Runtime.pdb
+G:\CURRICULAM VITAE\CURRICULAM VITAE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\CURRICULAM VITAE\CURRICULAM VITAE\obj\Debug\CURRICULAM VITAE.csproj.AssemblyReference.cache
+G:\CURRICULAM VITAE\CURRICULAM VITAE\obj\Debug\CURRICULAM VITAE.csproj.CoreCompileInputs.cache
+G:\CURRICULAM VITAE\CURRICULAM VITAE\obj\Debug\CURRICULAM VITAE.csproj.CopyComplete
+G:\CURRICULAM VITAE\CURRICULAM VITAE\obj\Debug\CURRICULAM VITAE.dll
+G:\CURRICULAM VITAE\CURRICULAM VITAE\obj\Debug\CURRICULAM VITAE.pdb
