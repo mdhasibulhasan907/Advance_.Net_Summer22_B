@@ -1,0 +1,37 @@
+
+<div ng-include="'views/inc/Mem_nav.html'"></div>
+<div>
+    <h1>All Member</h1>
+  
+      <table border="1" id="table">
+        <tr>
+          <th>Id</th>
+          <th>Name</th>
+          <th>Password</th>
+          <th>Age </th>
+          <th>Gname</th>
+          <th>Gender</th>
+          <th>Phone</th>
+          <th>Type </th>
+          <th>Room_Id </th>
+         
+           
+           
+
+
+
+
+        </tr>
+        <tr ng-repeat="m in memberGet">
+            <td>{{m.Id}}</td>
+            <td>{{m.Name}}</td>
+            <td>{{m.Password}}</td>
+            <td>{{m.Age}}</td>
+            <td>{{m.Gname}}</td>
+            <td>{{m.Gender}}</td>
+            <td>{{m.Phone}}</td>
+            <td>{{m.Type}}</td>
+            <td>{{m.Room_Id}}</td>
+        </tr>
+      </table>
+  </div>
